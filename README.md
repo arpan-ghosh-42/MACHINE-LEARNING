@@ -135,10 +135,6 @@ jupyter notebook
 
 Open any notebook and choose **Run All**. Data paths are relative (`../../data/...`), so launch Jupyter from the repository root.
 
-## Next steps
-
-- Deep learning fundamentals (neural networks from scratch, CNNs, transfer learning) - separate repository, in progress.
-- Larger end-to-end projects: AI Gym Coach, AI Attendance System.
 
 ## Author
 
